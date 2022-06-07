@@ -18,7 +18,7 @@ Cloning and allocating a repository in the cloud.
 ## Certificate
 The following certifies the course completion.   
 <br></br>
-![](https://github.com/spuerta10/cursos/tree/main/git_y_github/recursos/imagenes_y_videos/diploma-git-github.pdf)   
+![](https://github.com/spuerta10/cursos/blob/main/git_y_github/recursos/imagenes_y_videos/diploma-git-github.pdf)   
 
 *Figure 1*. Course completion certificate.
 <br></br>
