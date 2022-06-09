@@ -4,20 +4,22 @@
 <a href = "https://github.com/spuerta10/plantillas/blob/cursos/nombre_curso/README.md">English</a></font> 
 </p>
 
-# Course name
-Brief course description.
+# Machine Learning basics
+Search and define the best machine learning algorithm for a given problem.
+Dominating the basics of machine learning using Python.
 <br></br>
 
 ## Habilities
-- Hability 1
-- Hability 2
-- Hability n
+- Machine Learning
+- Deep Learning
+- Python
+- Problem Solving
 <br></br>
 
 ## Certificate
 The following certifies the course completion.   
 <br></br>
-![]()   
+![](https://github.com/spuerta10/cursos/blob/main/fundamentos_machine_learning/recursos/imagenes_y_videos/certificado.jpg)   
 
 *Figure 1*. Course completion certificate.
 <br></br>

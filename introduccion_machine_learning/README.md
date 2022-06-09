@@ -4,20 +4,19 @@
 <a href = "https://github.com/spuerta10/plantillas/blob/cursos/nombre_curso/README.md">English</a></font> 
 </p>
 
-# Course name
-Brief course description.
+# Introduction to machine learning by MindsDB
+Comprehend the principal concepts around Machine Learning and Deep Learning.
 <br></br>
 
 ## Habilities
-- Hability 1
-- Hability 2
-- Hability n
+- Machine Learning
+- Deep Learning
 <br></br>
 
 ## Certificate
 The following certifies the course completion.   
 <br></br>
-![]()   
+![](https://github.com/spuerta10/cursos/blob/main/introduccion_machine_learning/recursos/imagenes_y_videos/certificado.jpg)   
 
 *Figure 1*. Course completion certificate.
 <br></br>

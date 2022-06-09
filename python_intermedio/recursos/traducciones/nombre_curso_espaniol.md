@@ -4,23 +4,22 @@
 <a href = "https://github.com/spuerta10/plantillas/blob/cursos/nombre_curso/README.md">English</a></font> 
 </p>
 
-# Web Scraping basics with Python and Xpath
-Internet data extraction through the use of tools like Python and Xpath.
+# Nombre del curso
+Breve descripcion del curso
 <br></br>
 
-## Habilities
-- Python
-- Xpath
-- Data extraction
-- HTML
+## Habilidades
+- Habilidad 1
+- Habilidad 2
+- Habilidad n
 <br></br>
 
-## Certificate
-The following certifies the course completion.   
+## Certificacion
+El siguiente es el certificado de completitud del curso   
 <br></br>
-![](https://github.com/spuerta10/cursos/blob/main/fundamentos_web_scraping/recursos/imagenes_y_videos/certificado.jpg)   
+![]()   
 
-*Figure 1*. Course completion certificate.
+*Figura 1*. Certificado de completitud del curso nombre del curso
 <br></br>
 <br></br>
 <br></br>

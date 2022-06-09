@@ -4,21 +4,21 @@
 <a href = "https://github.com/spuerta10/plantillas/blob/cursos/nombre_curso/README.md">English</a></font> 
 </p>
 
-# Web Scraping basics with Python and Xpath
-Internet data extraction through the use of tools like Python and Xpath.
+# Intermidiate Python course
+Strengthen your python skills in order to become a Python developer using comprehensions list, lambdas and knowing how to handle errors.
 <br></br>
 
 ## Habilities
-- Python
-- Xpath
-- Data extraction
-- HTML
+- List comprehension
+- Dict comprehension
+- Lambda functions
+- Error handling
 <br></br>
 
 ## Certificate
 The following certifies the course completion.   
 <br></br>
-![](https://github.com/spuerta10/cursos/blob/main/fundamentos_web_scraping/recursos/imagenes_y_videos/certificado.jpg)   
+![](https://github.com/spuerta10/cursos/blob/main/python_intermedio/recursos/imagenes_y_videos/certificado.jpg)   
 
 *Figure 1*. Course completion certificate.
 <br></br>

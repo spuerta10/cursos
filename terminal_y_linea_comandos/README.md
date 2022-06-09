@@ -4,20 +4,20 @@
 <a href = "https://github.com/spuerta10/plantillas/blob/cursos/nombre_curso/README.md">English</a></font> 
 </p>
 
-# Course name
-Brief course description.
+# Introduction to Linux terminal and command line
+Learn how to use the basic commands of a Unix terminal.
 <br></br>
 
 ## Habilities
-- Hability 1
-- Hability 2
-- Hability n
+- Unix terminal commands
+- Helpfull system searches to facilitate work
+- Managing permission within you system
 <br></br>
 
 ## Certificate
 The following certifies the course completion.   
 <br></br>
-![]()   
+![](https://github.com/spuerta10/cursos/blob/main/terminal_y_linea/recursos/imagenes_y_videos/certificado.jpg)   
 
 *Figure 1*. Course completion certificate.
 <br></br>
